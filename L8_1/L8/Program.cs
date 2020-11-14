@@ -27,5 +27,6 @@ namespace L8
             var keyname = string.Format(@"SOFTWARE\Unity Technologies\{0:b}", t.GUID);
             Microsoft.Win32.Registry.LocalMachine.DeleteSubKeyTree(keyname);
         }
+        jnkjnlklkjnlkj
     }
 }
